@@ -1,1 +1,0 @@
-# emoLogApp.github.io
